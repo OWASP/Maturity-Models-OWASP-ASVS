@@ -949,9 +949,6 @@
     "name": "Verify that the app validates input to exported activities, intents, or content providers.",
     "level": "1"
   },
-  "": {
-    "name": ""
-  },
   "18.1": {
     "name": "Verify that alternative and less secure access paths do not exist.",
     "level": "2"
