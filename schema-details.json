@@ -1,0 +1,19 @@
+{
+  "activities": {
+    "ASVS.1.1": {
+      "description": "Interview business owners and stakeholders and create a list of worst-case scenarios across the organization’s various application and data assets.  Based on the way in which your organization builds, uses, or sells software, the list of worst-case scenarios can vary widely, but common issues include data theft or corruption, service outages, monetary loss, reverse engineering, account compromise, etc. After broadly capturing worst-case scenario ideas, collate and select the most important based on collected information and knowledge about the core business.  Any number can be selected, but aim for at least 3 and no more than 7 to make efficient use of time and keep the exercise focused. Elaborate a description of each of the selected items and document details of contributing worst-case scenarios, potential contributing factors, and potential mitigating factors for the organization. The final business risk profile should be reviewed with business owners and other stakeholders for understanding.",
+      "objective": "Establish unifed strategic roadmap for software security within the organization",
+      "proof": "Do the business stakeholders understand your organization’s risk profile?"
+    },
+    "ASVS.1.2": {
+      "description": "Understanding the main business risks to the organization, evaluate the current performance of the organization against each the twelve Practices. Assign a score for each Practice from 1, 2, or 3 based on the corresponding Objective if the organization passes all the cumulative success metrics. If no success metrics are being met, assign a score of 0 to the Practice. Once a good understanding of current status is obtained, the next goal is to identify the Practices that will be improved in the next iteration. Select them based on business risk profile, other business drivers, compliance requirements, budget tolerance, etc. Once Practices are selected, the goals of the iteration are to achieve the next Objective under each. Iterations of improvement on the assurance program should be approximately 3-6 months, but an assurance strategy session should take place at least every 3 months to review progress on activities, performance against success metrics and other business drivers that may require program changes.",
+      "objective": "Establish unified strategic roadmap for software security within the organization",
+      "proof": "Is there a software security assurance program in place? Are development staff aware of future plans for the assurance program?"
+    },
+    "ASVS.1.3": {
+      "description": "Understanding the main business risks to the organization, evaluate the current performance of the organization against each the twelve Practices. Assign a score for each Practice from 1, 2, or 3 based on the corresponding Objective if the organization passes all the cumulative success metrics. If no success metrics are being met, assign a score of 0 to the Practice. Once a good understanding of current status is obtained, the next goal is to identify the Practices that will be improved in the next iteration. Select them based on business risk profile, other business drivers, compliance requirements, budget tolerance, etc. Once Practices are selected, the goals of the iteration are to achieve the next Objective under each. Iterations of improvement on the assurance program should be approximately 3-6 months, but an assurance strategy session should take place at least every 3 months to review progress on activities, performance against success metrics and other business drivers that may require program changes.",
+      "objective": "Establish unified strategic roadmap for software security within the organization",
+      "proof": "Is there a software security assurance program in place? Are development staff aware of future plans for the assurance program?"
+    }
+  }
+}

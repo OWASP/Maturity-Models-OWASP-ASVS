@@ -1,0 +1,92 @@
+{
+  "config": {
+    "schema": "OwaspASVS",
+    "version": "3.1"
+  },
+  "metadata": [
+    "team",
+    "security-champion",
+    "source-code-repo",
+    "issue-tracking",
+    "wiki",
+    "ci-server",
+    "created-by",
+    "hide-from-stats"
+  ],
+  "domains": {
+    "ASVS": {
+      "practices": [
+        "Architecture",
+        "Authentication"
+      ]
+    }
+  },
+  "practices": {
+    "Architecture": {
+      "key": "ASVS",
+      "activities": [
+        "ASVS.1.1",
+        "ASVS.1.2"
+      ]
+    },
+    "Authentication": {
+      "key": "ASVS",
+      "activities": [
+        "ASVS.1.2",
+        "ASVS.1.3"
+      ]
+    }
+  },
+  "activities": {
+    "ASVS.1.1": {
+      "level": "1",
+      "name": "Desc ASVS 1.1"
+    },
+    "ASVS.1.2": {
+      "level": "2",
+      "name": "Desc ASVS 1.2"
+    },
+
+    "ASVS.1.3": {
+      "level": "3",
+      "name": "Desc ASVS 1.3"
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
