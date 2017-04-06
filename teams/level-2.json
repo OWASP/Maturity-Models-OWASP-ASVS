@@ -10,293 +10,806 @@
     "hide-from-stats": "yes"
   },
   "activities": {
-    "SM.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SM.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SM.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SM.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SM.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "SM.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "PC.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "PC.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "PC.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "PC.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "PC.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "PC.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "EG.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EG.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EG.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EG.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EG.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "EG.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "TA.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "TA.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "TA.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "TA.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "TA.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "TA.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "SR.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SR.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SR.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SR.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SR.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "SR.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "SA.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SA.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SA.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SA.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "SA.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "SA.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "DR.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "DR.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "DR.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "DR.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "DR.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "DR.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "IR.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IR.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IR.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IR.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IR.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "IR.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "ST.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "ST.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "ST.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "ST.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "ST.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "ST.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "IM.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IM.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IM.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IM.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "IM.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "IM.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "EH.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EH.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EH.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EH.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "EH.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "EH.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "OE.1.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "OE.1.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "OE.2.A": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "OE.2.B": {
-      "value": "Yes",
-      "proof": ""
-    },
-    "OE.3.A": {
-      "value": "No",
-      "proof": ""
-    },
-    "OE.3.B": {
-      "value": "No",
-      "proof": ""
-    }
+  "1.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "1.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "1.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "1.4": {
+    "proof": "",
+    "value": "no"
+  },
+  "1.5": {
+    "proof": "",
+    "value": "no"
+  },
+  "1.6": {
+    "proof": "",
+    "value": "no"
+  },
+  "1.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "1.8": {
+    "proof": "",
+    "value": "yes"
+  },
+  "1.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "1.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.8": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.12": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.13": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.16": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.17": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.18": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.19": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.21": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.22": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.23": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.24": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.25": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.26": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.27": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.28": {
+    "proof": "",
+    "value": "no"
+  },
+  "2.29": {
+    "proof": "",
+    "value": "no"
+  },
+  "2.31": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.32": {
+    "proof": "",
+    "value": "yes"
+  },
+  "2.33": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.12": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.16": {
+    "proof": "",
+    "value": "no"
+  },
+  "3.17": {
+    "proof": "",
+    "value": "yes"
+  },
+  "3.18": {
+    "proof": "",
+    "value": "no"
+  },
+  "4.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.8": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.11": {
+    "proof": "",
+    "value": "no"
+  },
+  "4.12": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.13": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.14": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.15": {
+    "proof": "",
+    "value": "yes"
+  },
+  "4.16": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.6": {
+    "proof": "",
+    "value": "no"
+  },
+  "5.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.12": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.13": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.14": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.15": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.16": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.17": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.18": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.19": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.21": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.22": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.23": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.24": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.25": {
+    "proof": "",
+    "value": "yes"
+  },
+  "5.26": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.8": {
+    "proof": "",
+    "value": "no"
+  },
+  "7.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.11": {
+    "proof": "",
+    "value": "no"
+  },
+  "7.12": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.13": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.14": {
+    "proof": "",
+    "value": "yes"
+  },
+  "7.15": {
+    "proof": "",
+    "value": "no"
+  },
+  "8.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "8.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "8.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "8.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "8.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "8.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "8.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "8.8": {
+    "proof": "",
+    "value": "no"
+  },
+  "8.9": {
+    "proof": "",
+    "value": "no"
+  },
+  "8.11": {
+    "proof": "",
+    "value": "no"
+  },
+  "8.12": {
+    "proof": "",
+    "value": "no"
+  },
+  "8.13": {
+    "proof": "",
+    "value": "yes"
+  },
+  "9.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "9.2": {
+    "proof": "",
+    "value": "no"
+  },
+  "9.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "9.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "9.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "9.6": {
+    "proof": "",
+    "value": "no"
+  },
+  "9.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "9.8": {
+    "proof": "",
+    "value": "no"
+  },
+  "9.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "9.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.4": {
+    "proof": "",
+    "value": "no"
+  },
+  "10.5": {
+    "proof": "",
+    "value": "no"
+  },
+  "10.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.8": {
+    "proof": "",
+    "value": "no"
+  },
+  "10.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.12": {
+    "proof": "",
+    "value": "no"
+  },
+  "10.13": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.14": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.15": {
+    "proof": "",
+    "value": "yes"
+  },
+  "10.16": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "11.8": {
+    "proof": "",
+    "value": "yes"
+  },
+  "13.1": {
+    "proof": "",
+    "value": "no"
+  },
+  "13.2": {
+    "proof": "",
+    "value": "no"
+  },
+  "15.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "15.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.8": {
+    "proof": "",
+    "value": "yes"
+  },
+  "16.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.8": {
+    "proof": "",
+    "value": "no"
+  },
+  "17.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "17.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "": {
+    "proof": "",
+    "value": "no"
+  },
+  "18.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.8": {
+    "proof": "",
+    "value": "yes"
+  },
+  "18.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "19.1": {
+    "proof": "",
+    "value": "no"
+  },
+  "19.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "19.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "19.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "19.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "19.6": {
+    "proof": "",
+    "value": "no"
+  },
+  "19.7": {
+    "proof": "",
+    "value": "no"
+  },
+  "19.8": {
+    "proof": "",
+    "value": "no"
+  },
+  "19.9": {
+    "proof": "",
+    "value": "no"
+  },
+  "19.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.1": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.2": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.3": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.4": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.5": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.6": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.7": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.8": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.9": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.11": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.12": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.13": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.14": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.15": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.16": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.17": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.18": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.19": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.21": {
+    "proof": "",
+    "value": "yes"
+  },
+  "20.22": {
+    "proof": "",
+    "value": "no"
+  },
+  "20.23": {
+    "proof": "",
+    "value": "no"
+  },
+  "20.24": {
+    "proof": "",
+    "value": "no"
+  },
+  "20.25": {
+    "proof": "",
+    "value": "no"
+  },
+  "20.26": {
+    "proof": "",
+    "value": "no"
+  },
+  "20.27": {
+    "proof": "",
+    "value": "no"
+  },
+  "20.28": {
+    "proof": "",
+    "value": "no"
+  },
+  "20.29": {
+    "proof": "",
+    "value": "no"
   }
+}
+
 }
