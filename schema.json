@@ -946,7 +946,7 @@
     "level": "1"
   },
   "17.11": {
-    "name": "",
+    "name": "Verify that the app validates input to exported activities, intents, or content providers.",
     "level": "1"
   },
   "": {
