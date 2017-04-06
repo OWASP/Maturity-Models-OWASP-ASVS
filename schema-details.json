@@ -1,6 +1,5 @@
 {
   "activities": {
-    "activities": {
    "1.1": {
     "description": "Verify that there is no sensitive business logic, secret keys or other proprietary information in client side code.",
     "proof" : "",
