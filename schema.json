@@ -16,41 +16,1128 @@
   "domains": {
     "ASVS": {
       "practices": [
-        "Architecture",
-        "Authentication"
+    "ARCHITECTURE, DESIGN AND THREAT MODELLING",
+    "AUTHENTICATION",
+    "SESSION MANAGEMENT",
+    "ACCESS CONTROL",
+    "MALICIOUS INPUT HANDLING",
+    "CRYPTOGRAPHY AT REST",
+    "ERROR HANDLING AND LOGGING",
+    "DATA PROTECTION",
+    "COMMUNICATIONS SECURITY",
+    "HTTP SECURITY CONFIGURATION",
+    "MALICIOUS CONTROLS",
+    "BUSINESS LOGIC",
+    "FILES AND RESOURCES",
+    "MOBILE",
+    "WEB SERVICES",
+    "CONFIGURATION",
+    "INTERNET OF THINGS (IOT)",
       ]
     }
   },
-  "practices": {
-    "Architecture": {
-      "key": "ASVS",
+  
+   "practices": {
+  "ARCHITECTURE, DESIGN AND THREAT MODELLING": {
+      "key": "ARCH",
       "activities": [
-        "ASVS.1.1",
-        "ASVS.1.2"
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9",
+        "1.1",
+        "1.11"
       ]
     },
-    "Authentication": {
-      "key": "ASVS",
+    "AUTHENTICATION": {
+      "key": "AUTH",
       "activities": [
-        "ASVS.1.2",
-        "ASVS.1.3"
+        "2.1",
+        "2.2",
+        "2.4",
+        "2.6",
+        "2.7",
+        "2.8",
+        "2.9",
+        "2.12",
+        "2.13",
+        "2.16",
+        "2.17",
+        "2.18",
+        "2.19",
+        "2.2",
+        "2.21",
+        "2.22",
+        "2.23",
+        "2.24",
+        "2.25",
+        "2.26",
+        "2.27",
+        "2.28",
+        "2.29",
+        "2.31",
+        "2.32",
+        "2.33"
+      ]
+    },
+    "SESSION MANAGEMENT": {
+      "key": "SESSMGMT",
+      "activities": [
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "3.6",
+        "3.7",
+        "3.1",
+        "3.11",
+        "3.12",
+        "3.16",
+        "3.17",
+        "3.18"
+      ]
+    },
+    "ACCESS CONTROL": {
+      "key": "ACCESS",
+      "activities": [
+        "4.1",
+        "4.4",
+        "4.5",
+        "4.8",
+        "4.9",
+        "4.1",
+        "4.11",
+        "4.12",
+        "4.13",
+        "4.14",
+        "4.15",
+        "4.16"
+      ]
+    },
+    "MALICIOUS INPUT HANDLING": {
+      "key": "MAL",
+      "activities": [
+        "5.1",
+        "5.3",
+        "5.5",
+        "5.6",
+        "5.1",
+        "5.11",
+        "5.12",
+        "5.13",
+        "5.14",
+        "5.15",
+        "5.16",
+        "5.17",
+        "5.18",
+        "5.19",
+        "5.2",
+        "5.21",
+        "5.22",
+        "5.23",
+        "5.24",
+        "5.25",
+        "5.26"
+      ]
+    },
+    "CRYPTOGRAPHY AT REST": {
+      "key": "CRYPTO",
+      "activities": [
+        "7.2",
+        "7.6",
+        "7.7",
+        "7.8",
+        "7.9",
+        "7.11",
+        "7.12",
+        "7.13",
+        "7.14",
+        "7.15"
+      ]
+    },
+    "ERROR HANDLING AND LOGGING": {
+      "key": "ERROR",
+      "activities": [
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7",
+        "8.8",
+        "8.9",
+        "8.1",
+        "8.11",
+        "8.12",
+        "8.13"
+      ]
+    },
+    "DATA PROTECTION": {
+      "key": "DATA",
+      "activities": [
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4",
+        "9.5",
+        "9.6",
+        "9.7",
+        "9.8",
+        "9.9",
+        "9.1",
+        "9.11"
+      ]
+    },
+    "COMMUNICATIONS SECURITY": {
+      "key": "COMSEC",
+      "activities": [
+        "10.1",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.8",
+        "10.1",
+        "10.11",
+        "10.12",
+        "10.13",
+        "10.14",
+        "10.15",
+        "10.16"
+      ]
+    },
+    "HTTP SECURITY CONFIGURATION": {
+      "key": "HTTPSEC",
+      "activities": [
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4",
+        "11.5",
+        "11.6",
+        "11.7",
+        "11.8"
+      ]
+    },
+    "MALICIOUS CONTROLS": {
+      "key": "MALCTRL",
+      "activities": [
+        "13.1",
+        "13.2"
+      ]
+    },
+    "BUSINESS LOGIC": {
+      "key": "BUSINESS",
+      "activities": [
+        "15.1",
+        "15.2"
+      ]
+    },
+    "FILES AND RESOURCES": {
+      "key": "FILES",
+      "activities": [
+        "16.1",
+        "16.2",
+        "16.3",
+        "16.4",
+        "16.5",
+        "16.6",
+        "16.7",
+        "16.8",
+        "16.9"
+      ]
+    },
+    "MOBILE": {
+      "key": "MOBILE",
+      "activities": [
+        "17.1",
+        "17.2",
+        "17.3",
+        "17.4",
+        "17.5",
+        "17.6",
+        "17.7",
+        "17.8",
+        "17.9",
+        "17.1",
+        "17.11",
+        "",
+        ""
+      ]
+    },
+    "WEB SERVICES": {
+      "key": "WS",
+      "activities": [
+        "18.1",
+        "18.2",
+        "18.3",
+        "18.4",
+        "18.5",
+        "18.6",
+        "18.7",
+        "18.8",
+        "18.9",
+        "18.1"
+      ]
+    },
+    "CONFIGURATION": {
+      "key": "CONF",
+      "activities": [
+        "19.1",
+        "19.2",
+        "19.3",
+        "19.4",
+        "19.5",
+        "19.6",
+        "19.7",
+        "19.8",
+        "19.9",
+        "19.1",
+        "19.11"
+      ]
+    },
+    "INTERNET OF THINGS (IOT)": {
+      "key": "IOT",
+      "activities": [
+        "20.1",
+        "20.2",
+        "20.3",
+        "20.4",
+        "20.5",
+        "20.6",
+        "20.7",
+        "20.8",
+        "20.9",
+        "20.1",
+        "20.11",
+        "20.12",
+        "20.13",
+        "20.14",
+        "20.15",
+        "20.16",
+        "20.17",
+        "20.18",
+        "20.19",
+        "20.2",
+        "20.21",
+        "20.22",
+        "20.23",
+        "20.24",
+        "20.25",
+        "20.26",
+        "20.27",
+        "20.28",
+        "20.29"
       ]
     }
   },
   "activities": {
-    "ASVS.1.1": {
-      "level": "1",
-      "name": "Desc ASVS 1.1"
-    },
-    "ASVS.1.2": {
-      "level": "2",
-      "name": "Desc ASVS 1.2"
-    },
-
-    "ASVS.1.3": {
-      "level": "3",
-      "name": "Desc ASVS 1.3"
-    }
+   "1.1": {
+    "name": "Verify that there is no sensitive business logic, secret keys or other proprietary information in client side code.",
+    "level": "2"
+  },
+  "1.2": {
+    "name": "Verify that all components, such as libraries, modules, and external systems, that are not part of the application but that the application relies on to operate are identified.",
+    "level": "2"
+  },
+  "1.3": {
+    "name": "Verify that a high-level architecture for the application has been defined.",
+    "level": "2"
+  },
+  "1.4": {
+    "name": "Verify that all application components are defined in terms of the business functions and/or security functions they provide.",
+    "level": "3"
+  },
+  "1.5": {
+    "name": "Verify that all components that are not part of the application but that the application relies on to operate are defined in terms of the functions, and/or security functions, they provide.",
+    "level": "3"
+  },
+  "1.6": {
+    "name": "Verify that a threat model for the target application has been produced and covers off risks associated with Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of privilege (STRIDE).",
+    "level": "3"
+  },
+  "1.7": {
+    "name": "Verify all security controls (including libraries that call external security services) have a centralized implementation.",
+    "level": "2"
+  },
+  "1.8": {
+    "name": "Verify that components are segregated from each other via a defined security control, such as network segmentation, firewall rules, or cloud based security groups.",
+    "level": "2"
+  },
+  "1.9": {
+    "name": "Verify the application has a clear separation between the data layer, controller layer and the display layer, such that security decisions can be enforced on trusted systems.",
+    "level": "2"
+  },
+  "1.11": {
+    "name": "Verify that all application components, libraries, modules, frameworks, platform, and operating systems are free from known vulnerabilities.",
+    "level": "2"
+  },
+  "2.1": {
+    "name": "Verify all pages and resources by default require authentication except those specifically intended to be public (Principle of complete mediation).",
+    "level": "1"
+  },
+  "2.2": {
+    "name": "Verify that anti-automation is in place to prevent breached credential testing, brute forcing, and account lockout attacks.",
+    "level": "1"
+  },
+  "2.4": {
+    "name": "Verify all authentication controls are enforced on the server side.",
+    "level": "1"
+  },
+  "2.6": {
+    "name": "Verify all authentication controls fail securely to ensure attackers cannot log in.",
+    "level": "1"
+  },
+  "2.7": {
+    "name": "Verify password entry fields allow, or encourage, the use of passphrases, and do not prevent password managers, long passphrases or highly complex passwords being entered.",
+    "level": "1"
+  },
+  "2.8": {
+    "name": "Verify all account identity authentication functions (such as update profile, forgot password, disabled / lost token, help desk or IVR) that might regain access to the account are at least as resistant to attack as the primary authentication mechanism.",
+    "level": "1"
+  },
+  "2.9": {
+    "name": "Verify that the changing password functionality includes the old password, the new password, and a password confirmation.",
+    "level": "1"
+  },
+  "2.12": {
+    "name": "Verify that all authentication decisions can be logged, without storing sensitive session identifiers or passwords. This should include requests with relevant metadata needed for security investigations.",
+    "level": "2"
+  },
+  "2.13": {
+    "name": "Verify that account passwords are one way hashed with a salt, and there is sufficient work factor to defeat brute force and password hash recovery attacks.",
+    "level": "2"
+  },
+  "2.16": {
+    "name": "Verify that credentials are transported using a suitable encrypted link and that all pages/functions that require a user to enter credentials are done so using an encrypted link.",
+    "level": "1"
+  },
+  "2.17": {
+    "name": "Verify that the forgotten password function and other recovery paths do not reveal the current password and that the new password is not sent in clear text to the user.",
+    "level": "1"
+  },
+  "2.18": {
+    "name": "Verify that information enumeration is not possible via login, password reset, or forgot account functionality.",
+    "level": "1"
+  },
+  "2.19": {
+    "name": "Verify there are no default passwords in use for the application framework or any components used by the application (such as Yadmin/passwordY).",
+    "level": "1"
+  },
+  "2.21": {
+    "name": "Verify that all authentication credentials for accessing services external to the application are encrypted and stored in a protected location.",
+    "level": "2"
+  },
+  "2.22": {
+    "name": "Verify that forgotten password and other recovery paths use a TOTP or other soft token, mobile push, or other offline recovery mechanism. Use of a random value in an e-mail or SMS should be a last resort and is known weak.",
+    "level": "1"
+  },
+  "2.23": {
+    "name": "Verify that account lockout is divided into soft and hard lock status, and these are not mutually exclusive. If an account is temporarily soft locked out due to a brute force attack, this should not reset the hard lock status.",
+    "level": "2"
+  },
+  "2.24": {
+    "name": "Verify that if shared knowledge based questions (also known as \"secret questions\") are required, the questions do not violate privacy laws and are sufficiently strong to protect accounts from malicious recovery.",
+    "level": "1"
+  },
+  "2.25": {
+    "name": "Verify that high value applications can be configured to disallow the use of a configurable number of previous passwords.",
+    "level": "2"
+  },
+  "2.26": {
+    "name": "Verify that risk based re-authentication, two factor or transaction signing is in place for high value transactions.",
+    "level": "2"
+  },
+  "2.27": {
+    "name": "Verify that measures are in place to block the use of commonly chosen passwords and weak passphrases.",
+    "level": "1"
+  },
+  "2.28": {
+    "name": "Verify that all authentication challenges, whether successful or failed, should respond in the same average response time.",
+    "level": "3"
+  },
+  "2.29": {
+    "name": "Verify that secrets, API keys, and passwords are not included in the source code, or online source code repositories.",
+    "level": "3"
+  },
+  "2.31": {
+    "name": "Verify that users can enrol and use TOTP verification, two-factor, biometric (Touch ID or similar), or equivalent multi-factor authentication mechanism that provides protection against single factor credential disclosure.",
+    "level": "2"
+  },
+  "2.32": {
+    "name": "Verify that administrative interfaces are not accessible to untrusted parties.",
+    "level": "1"
+  },
+  "2.33": {
+    "name": "Verify that the application is compatible with browser based and third party password managers, unless prohibited by risk based policy.",
+    "level": "1"
+  },
+  "3.1": {
+    "name": "Verify that only session ids generated by the application framework are recognized as active by the application.",
+    "level": "2"
+  },
+  "3.2": {
+    "name": "Verify that sessions are invalidated when the user logs out.",
+    "level": "1"
+  },
+  "3.3": {
+    "name": "Verify that sessions timeout after a specified period of inactivity.",
+    "level": "1"
+  },
+  "3.4": {
+    "name": "Verify that sessions timeout after an administratively-configurable maximum time period regardless of activity (an absolute timeout).",
+    "level": "2"
+  },
+  "3.5": {
+    "name": "Verify that all pages that require authentication have easy and visible access to logout functionality.",
+    "level": "1"
+  },
+  "3.6": {
+    "name": "Verify that the session id is never disclosed in URLs, error messages, or logs. This includes verifying that the application does not support URL rewriting of session cookies.",
+    "level": "1"
+  },
+  "3.7": {
+    "name": "Verify that all successful authentication and re-authentication generates a new session and session id.",
+    "level": "1"
+  },
+  "3.11": {
+    "name": "Verify that session ids are sufficiently long, random and unique across the correct active session base.",
+    "level": "1"
+  },
+  "3.12": {
+    "name": "Verify that session ids stored in cookies have their path set to an appropriately restrictive value for the application, and authentication session tokens additionally set the YHttpOnlyY and YsecureY attributes",
+    "level": "1"
+  },
+  "3.16": {
+    "name": "Verify that high value applications limit the number of active concurrent sessions.",
+    "level": "3"
+  },
+  "3.17": {
+    "name": "Verify that an active session list is displayed in the account profile or similar of each user. The user should be able to terminate any active session.",
+    "level": "2"
+  },
+  "3.18": {
+    "name": "Verify the for high value applications, that the user is prompted with the option to terminate all other active sessions after a successful change password process.",
+    "level": "3"
+  },
+  "4.1": {
+    "name": "Verify that all user and data attributes and policy information used by access controls cannot be manipulated by end users unless specifically authorized.",
+    "level": "2"
+  },
+  "4.4": {
+    "name": "Verify that access to sensitive records is protected, such that only authorized objects or data is accessible to each user (for example, protect against users tampering with a parameter to see or alter another user's account).",
+    "level": "1"
+  },
+  "4.5": {
+    "name": "Verify that directory browsing is disabled unless deliberately desired. Additionally, applications should not allow discovery or disclosure of file or directory metadata, such as Thumbs.db, .DS_Store, .git or .svn folders.",
+    "level": "1"
+  },
+  "4.8": {
+    "name": "Verify that access controls fail securely.",
+    "level": "1"
+  },
+  "4.9": {
+    "name": "Verify that the same access control rules implied by the presentation layer are enforced on the server side.",
+    "level": "1"
+  },
+  "4.11": {
+    "name": "Verify that there is a centralized mechanism (including libraries that call external authorization services) for protecting access to each type of protected resource.",
+    "level": "3"
+  },
+  "4.12": {
+    "name": "Verify that all access control decisions can be logged and all failed decisions are logged.",
+    "level": "2"
+  },
+  "4.13": {
+    "name": "Verify that the application or framework uses strong random anti-CSRF tokens or has another transaction protection mechanism.",
+    "level": "1"
+  },
+  "4.14": {
+    "name": "Verify the system can protect against aggregate or continuous access of secured functions, resources, or data. For example, consider the use of a resource governor to limit the number of edits per hour or to prevent the entire database from being scraped by an individual user.",
+    "level": "2"
+  },
+  "4.15": {
+    "name": "Verify the application has additional authorization (such as step up or adaptive authentication) for lower value systems, and / or segregation of duties for high value applications to enforce anti-fraud controls as per the risk of application and past fraud.",
+    "level": "2"
+  },
+  "4.16": {
+    "name": "Verify that the application correctly enforces context-sensitive authorisation so as to not allow unauthorised manipulation by means of parameter tampering.",
+    "level": "1"
+  },
+  "5.1": {
+    "name": "Verify that all SQL queries, HQL, OSQL, NOSQL and stored procedures, calling of stored procedures are protected by the use of prepared statements or query parameterization, and thus not susceptible to SQL injection",
+    "level": "1"
+  },
+  "5.3": {
+    "name": "Verify that server side input validation failures result in request rejection and are logged.",
+    "level": "1"
+  },
+  "5.5": {
+    "name": "Verify that input validation routines are enforced on the server side.",
+    "level": "1"
+  },
+  "5.6": {
+    "name": "Verify that a single input validation control is used by the application for each type of data that is accepted.",
+    "level": "3"
+  },
+  "5.11": {
+    "name": "Verify that the application is not susceptible to LDAP Injection, or that security controls prevent LDAP Injection.",
+    "level": "1"
+  },
+  "5.12": {
+    "name": "Verify that the application is not susceptible to OS Command Injection, or that security controls prevent OS Command Injection.",
+    "level": "1"
+  },
+  "5.13": {
+    "name": "Verify that the application is not susceptible to Remote File Inclusion (RFI) or Local File Inclusion (LFI) when content is used that is a path to a file.",
+    "level": "1"
+  },
+  "5.14": {
+    "name": "Verify that the application is not susceptible to common XML attacks, such as XPath query tampering, XML External Entity attacks, and XML injection attacks.",
+    "level": "1"
+  },
+  "5.15": {
+    "name": "Verify that all string variables placed into HTML or other web client code is either properly contextually encoded manually, or utilize templates that automatically contextually encode to ensure the application is not susceptible to reflected, stored or DOM Cross-Site Scripting (XSS) attacks.",
+    "level": "1"
+  },
+  "5.16": {
+    "name": "Verify that if the application framework allows automatic mass parameter assignment (also called automatic variable binding) from the inbound request to a model, verify that security sensitive fields such as YaccountBalanceY, YroleY or YpasswordY are protected from malicious automatic binding.",
+    "level": "2"
+  },
+  "5.17": {
+    "name": "Verify that the application has defenses against HTTP parameter pollution attacks, particularly if the application framework makes no distinction about the source of request parameters (GET, POST, cookies, headers, environment, etc.)",
+    "level": "2"
+  },
+  "5.18": {
+    "name": "Verify that client side validation is used as a second line of defense, in addition to server side validation.",
+    "level": "2"
+  },
+  "5.19": {
+    "name": "Verify that all input data is validated, not only HTML form fields but all sources of input such as REST calls, query parameters, HTTP headers, cookies, batch files, RSS feeds, etc; using positive validation (whitelisting), then lesser forms of validation such as grey listing (eliminating known bad strings), or rejecting bad inputs (blacklisting).",
+    "level": "2"
+  },
+  "5.2": {
+    "name": "Verify that structured data is strongly typed and validated against a defined schema including allowed characters, length and pattern (e.g. credit card numbers or telephone, or validating that two related fields are reasonable, such as validating suburbs and zip or post codes match).",
+    "level": "2"
+  },
+  "5.21": {
+    "name": "Verify that unstructured data is sanitized to enforce generic safety measures such as allowed characters and length, and characters potentially harmful in given context should be escaped (e.g. natural names with Unicode or apostrophes, such as __ or O'Hara)",
+    "level": "2"
+  },
+  "5.22": {
+    "name": "Verify that untrusted HTML from WYSIWYG editors or similar are properly sanitized with an HTML sanitizer and handle it appropriately according to the input validation task and encoding task.",
+    "level": "1"
+  },
+  "5.23": {
+    "name": "Verify that where an application uses auto-escaping templating AND auto-escaping is disabled, output should be manually contextually encoded or sanitized to prevent XSS.",
+    "level": "2"
+  },
+  "5.24": {
+    "name": "Verify that where data is transferred from one DOM context to another, the transfer uses safe JavaScript methods, such as using innerText or .val.",
+    "level": "2"
+  },
+  "5.25": {
+    "name": "Verify when parsing JSON in browsers, that JSON.parse is used to parse JSON on the client. Do not use eval() to parse JSON on the client.",
+    "level": "2"
+  },
+  "5.26": {
+    "name": "Verify that authenticated data is cleared from client storage, such as the browser DOM, after the session is terminated.",
+    "level": "2"
+  },
+  "7.2": {
+    "name": "Verify that all cryptographic modules fail securely, and errors are handled in a way that does not enable Padding Oracle.",
+    "level": "1"
+  },
+  "7.6": {
+    "name": "Verify that all random numbers, random file names, random GUIDs, and random strings are generated using the cryptographic moduleYs approved random number generator when these random values are intended to be not guessable by an attacker.",
+    "level": "2"
+  },
+  "7.7": {
+    "name": "Verify that cryptographic algorithms used by the application have been validated against FIPS 140-2 or an equivalent standard.",
+    "level": "1"
+  },
+  "7.8": {
+    "name": "Verify that cryptographic modules operate in their approved mode according to their published security policies.",
+    "level": "3"
+  },
+  "7.9": {
+    "name": "Verify that there is an explicit policy for how cryptographic keys are managed (e.g., generated, distributed, revoked, and expired). Verify that this key lifecycle is properly enforced.",
+    "level": "2"
+  },
+  "7.11": {
+    "name": "Verify that all consumers of cryptographic services do not have direct access to key material. Isolate cryptographic processes, including master secrets and consider the use of a virtualized or physical hardware key vault (HSM).",
+    "level": "3"
+  },
+  "7.12": {
+    "name": "Verify that sensitive and Personally Identifiable Information is stored encrypted at rest, and in transit.",
+    "level": "2"
+  },
+  "7.13": {
+    "name": "Verify that sensitive passwords or key material maintained in memory is overwritten with zeros as soon as it is no longer required, to mitigate memory dumping attacks.",
+    "level": "2"
+  },
+  "7.14": {
+    "name": "Verify that all keys and passwords are replaceable, and are generated or replaced at installation time.",
+    "level": "2"
+  },
+  "7.15": {
+    "name": "Verify that random numbers are created with proper entropy even when the application is under heavy load, or that the application degrades gracefully in such circumstances.",
+    "level": "3"
+  },
+  "8.1": {
+    "name": "Verify that an audit log or similar allows for non-repudiation of key transactions.",
+    "level": "1"
+  },
+  "8.2": {
+    "name": "Verify that error handling logic in security controls denies access by default.",
+    "level": "2"
+  },
+  "8.3": {
+    "name": "Verify security logging controls provide the ability to log success and particularly failure events that are identified as security-relevant.",
+    "level": "2"
+  },
+  "8.4": {
+    "name": "Verify that each log event includes necessary information that would allow for a detailed investigation of the timeline when an event happens.",
+    "level": "2"
+  },
+  "8.5": {
+    "name": "Verify that all events that include untrusted data will not execute as code in the intended log viewing software.",
+    "level": "2"
+  },
+  "8.6": {
+    "name": "Verify that security logs are protected from unauthorized access and modification.",
+    "level": "2"
+  },
+  "8.7": {
+    "name": "Verify that the application does not log sensitive data as defined under local privacy laws or regulations, organizational sensitive data as defined by a risk assessment, or sensitive authentication data that could assist an attacker, including userYs session identifiers, passwords, hashes, or API tokens.",
+    "level": "2"
+  },
+  "8.8": {
+    "name": "Verify that all non-printable symbols and field separators are properly encoded in log entries, to prevent log injection.",
+    "level": "3"
+  },
+  "8.9": {
+    "name": "Verify that log fields from trusted and untrusted sources are distinguishable in log entries.",
+    "level": "3"
+  },
+  "8.11": {
+    "name": "Verify that security logs have some form of integrity checking or controls to prevent unauthorized modification.",
+    "level": "3"
+  },
+  "8.12": {
+    "name": "Verify that logs are stored on a different partition than the application is running with proper log rotation.",
+    "level": "3"
+  },
+  "8.13": {
+    "name": "Verify that time sources are synchronized to the correct time and time zone.",
+    "level": "1"
+  },
+  "9.1": {
+    "name": "Verify accessing sensitive data is logged, if the data is collected under relevant data protection directives or where logging of accesses is required.",
+    "level": "2"
+  },
+  "9.2": {
+    "name": "Verify that the list of sensitive data processed by the application is identified, and that there is an explicit policy for how access to this data must be controlled, encrypted and enforced under relevant data protection directives.",
+    "level": "3"
+  },
+  "9.3": {
+    "name": "Verify that all sensitive data is sent to the server in the HTTP message body or headers (i.e., URL parameters are never used to send sensitive data).",
+    "level": "1"
+  },
+  "9.4": {
+    "name": "Verify that the application sets sufficient anti-caching headers such that any sensitive and personal information displayed by the application or entered by the user should not be cached on disk by mainstream modern browsers (e.g. visit about:cache to review disk cache).",
+    "level": "1"
+  },
+  "9.5": {
+    "name": "Verify that on the server, all cached or temporary copies of sensitive data stored are protected from unauthorized access or purged/invalidated after the authorized user accesses the sensitive data.",
+    "level": "2"
+  },
+  "9.6": {
+    "name": "Verify that there is a method to remove each type of sensitive data from the application at the end of the required retention policy.",
+    "level": "3"
+  },
+  "9.7": {
+    "name": "Verify the application minimizes the number of parameters in a request, such as hidden fields, Ajax variables, cookies and header values.",
+    "level": "2"
+  },
+  "9.8": {
+    "name": "Verify the application has the ability to detect and alert on abnormal numbers of requests for data harvesting for an example screen scraping.",
+    "level": "3"
+  },
+  "9.9": {
+    "name": "Verify that data stored in client side storage (such as HTML5 local storage, session storage, IndexedDB, regular cookies or Flash cookies) does not contain sensitive data or PII.",
+    "level": "1"
+  },
+  "9.11": {
+    "name": "Verify that sensitive information maintained in memory is overwritten with zeros as soon as it is no longer required, to mitigate memory dumping attacks.",
+    "level": "2"
+  },
+  "10.1": {
+    "name": "Verify that TLS certificate public key pinning (HPKP) is implemented with production and backup public keys. For more information, please see the references below.",
+    "level": "2"
+  },
+  "10.3": {
+    "name": "Verify that TLS is used for all connections (including both external and backend connections) that are authenticated or that involve sensitive data or functions, and does not fall back to insecure or unencrypted protocols. Ensure the strongest alternative is the preferred algorithm.",
+    "level": "1"
+  },
+  "10.4": {
+    "name": "Verify that backend TLS connection failures are logged.",
+    "level": "3"
+  },
+  "10.5": {
+    "name": "Verify that certificate paths are built and verified for all client certificates using configured trust anchors and revocation information.",
+    "level": "3"
+  },
+  "10.6": {
+    "name": "Verify that all connections to external systems that involve sensitive information or functions are authenticated.",
+    "level": "2"
+  },
+  "10.8": {
+    "name": "Verify that there is a single standard TLS implementation that is used by the application that is configured to operate in an approved mode of operation.",
+    "level": "3"
+  },
+  "10.11": {
+    "name": "Verify that HTTP Strict Transport Security headers are included on all requests and for all subdomains, such as Strict-Transport-Security: max-age=15724800; includeSubdomains",
+    "level": "1"
+  },
+  "10.12": {
+    "name": "Verify that production website URL has been submitted to preloaded list of Strict Transport Security domains maintained by web browser vendors. Please see the references below.",
+    "level": "3"
+  },
+  "10.13": {
+    "name": "Verify that perfect forward secrecy is configured to mitigate passive attackers recording traffic.",
+    "level": "1"
+  },
+  "10.14": {
+    "name": "Verify that proper certification revocation, such as Online Certificate Status Protocol (OCSP) Stapling, is enabled and configured.",
+    "level": "1"
+  },
+  "10.15": {
+    "name": "Verify that only strong algorithms, ciphers, and protocols are used, through all the certificate hierarchy, including root and intermediary certificates of your selected certifying authority.",
+    "level": "1"
+  },
+  "10.16": {
+    "name": "Verify that the TLS settings are in line with current leading practice, particularly as common configurations, ciphers, and algorithms become insecure.",
+    "level": "1"
+  },
+  "11.1": {
+    "name": "Verify that the application accepts only a defined set of required HTTP request methods, such as GET and POST are accepted, and unused methods (e.g. TRACE, PUT, and DELETE) are explicitly blocked.",
+    "level": "1"
+  },
+  "11.2": {
+    "name": "Verify that every HTTP response contains a content type header specifying a safe character set (e.g., UTF-8, ISO 8859-1).",
+    "level": "1"
+  },
+  "11.3": {
+    "name": "Verify that HTTP headers added by a trusted proxy or SSO devices, such as a bearer token, are authenticated by the application.",
+    "level": "2"
+  },
+  "11.4": {
+    "name": "Verify that a suitable X-FRAME-OPTIONS header is in use for sites where content should not be viewed in a 3rd-party X-Frame.",
+    "level": "2"
+  },
+  "11.5": {
+    "name": "Verify that the HTTP headers or any part of the HTTP response do not expose detailed version information of system components.",
+    "level": "1"
+  },
+  "11.6": {
+    "name": "Verify that all API responses contain X-Content-Type-Options: nosniff and Content-Disposition: attachment; filename=\"api.json\" (or other appropriate filename for the content type).",
+    "level": "1"
+  },
+  "11.7": {
+    "name": "Verify that a content security policy (CSPv2) is in place that helps mitigate common DOM, XSS, JSON, and JavaScript injection vulnerabilities.",
+    "level": "1"
+  },
+  "11.8": {
+    "name": "Verify that the X-XSS-Protection: 1; mode=block header is in place to enable browser reflected XSS filters.",
+    "level": "1"
+  },
+  "13.1": {
+    "name": "Verify all malicious activity is adequately sandboxed, containerized or isolated to delay and deter attackers from attacking other applications.",
+    "level": "3"
+  },
+  "13.2": {
+    "name": "Verify that the application source code, and as many third party libraries as possible, does not contain back doors, Easter eggs, and logic flaws in authentication, access control, input validation, and the business logic of high value transactions.",
+    "level": "3"
+  },
+  "15.1": {
+    "name": "Verify the application will only process business logic flows in sequential step order, with all steps being processed in realistic human time, and not process out of order, skipped steps, process steps from another user, or too quickly submitted transactions.",
+    "level": "2"
+  },
+  "15.2": {
+    "name": "Verify the application has business limits and correctly enforces on a per user basis, with configurable alerting and automated reactions to automated or unusual attack.",
+    "level": "2"
+  },
+  "16.1": {
+    "name": "Verify that URL redirects and forwards only allow whitelisted destinations, or show a warning when redirecting to potentially untrusted content.",
+    "level": "1"
+  },
+  "16.2": {
+    "name": "Verify that untrusted file data submitted to the application is not used directly with file I/O commands, particularly to protect against path traversal, local file include, file mime type, reflective file download, and OS command injection vulnerabilities.",
+    "level": "1"
+  },
+  "16.3": {
+    "name": "Verify that files obtained from untrusted sources are validated to be of expected type and scanned by antivirus scanners to prevent upload of known malicious content.",
+    "level": "1"
+  },
+  "16.4": {
+    "name": "Verify that untrusted data is not used within inclusion, class loader, or reflection capabilities to prevent remote/local code execution vulnerabilities.",
+    "level": "1"
+  },
+  "16.5": {
+    "name": "Verify that untrusted data is not used within cross-domain resource sharing (CORS) to protect against arbitrary remote content.",
+    "level": "1"
+  },
+  "16.6": {
+    "name": "Verify that files obtained from untrusted sources are stored outside the webroot, with limited permissions, preferably with strong validation.",
+    "level": "2"
+  },
+  "16.7": {
+    "name": "Verify that the web or application server is configured by default to deny access to remote resources or systems outside the web or application server.",
+    "level": "2"
+  },
+  "16.8": {
+    "name": "Verify the application code does not execute uploaded data obtained from untrusted sources.",
+    "level": "1"
+  },
+  "16.9": {
+    "name": "Verify that unsupported, insecure or deprecated client-side technologies are not used, such as NSAPI plugins, Flash, Shockwave, Active-X, Silverlight, NACL, or client-side Java applets.",
+    "level": "1"
+  },
+  "17.1": {
+    "name": "Verify that sensitive information maintained in memory is overwritten with zeros as soon as it is no longer required, to mitigate memory dumping attacks.",
+    "level": "2"
+  },
+  "17.2": {
+    "name": "Verify that the mobile app does not store sensitive data onto potentially unencrypted shared resources on the device (e.g. SD card or shared folders).",
+    "level": "1"
+  },
+  "17.3": {
+    "name": "Verify that sensitive data is not stored unprotected on the device, even in system protected areas such as key chains.",
+    "level": "1"
+  },
+  "17.4": {
+    "name": "Verify that secret keys, API tokens, or passwords are dynamically generated in mobile applications.",
+    "level": "1"
+  },
+  "17.5": {
+    "name": "Verify that the mobile app prevents leaking of sensitive information (for example, screenshots are saved of the current application as the application is backgrounded or writing sensitive information in console).",
+    "level": "2"
+  },
+  "17.6": {
+    "name": "Verify that the application is requesting minimal permissions for required functionality and resources.",
+    "level": "2"
+  },
+  "17.7": {
+    "name": "Verify that the application sensitive code is laid out unpredictably in memory (For example ASLR).",
+    "level": "1"
+  },
+  "17.8": {
+    "name": "Verify that there are anti-debugging techniques present that are sufficient enough to deter or delay likely attackers from injecting debuggers into the mobile app (For example GDB).",
+    "level": "3"
+  },
+  "17.9": {
+    "name": "Verify that the app does not export sensitive activities, intents, or content providers for other mobile apps on the same device to exploit.",
+    "level": "1"
+  },
+  "17.11": {
+    "name": "",
+    "level": "1"
+  },
+  "": {
+    "name": ""
+  },
+  "18.1": {
+    "name": "Verify that alternative and less secure access paths do not exist.",
+    "level": "2"
+  },
+  "18.2": {
+    "name": "Verify that access to administration and management functions within the Web Service Application is limited to web service administrators.",
+    "level": "1"
+  },
+  "18.3": {
+    "name": "Verify that XML or JSON schema is in place and verified before accepting input.",
+    "level": "1"
+  },
+  "18.4": {
+    "name": "Verify that all input is limited to an appropriate size limit.",
+    "level": "1"
+  },
+  "18.5": {
+    "name": "Verify that SOAP based web services are compliant with Web Services-Interoperability (WS-I) Basic Profile at minimum. This essentially means TLS encryption.",
+    "level": "1"
+  },
+  "18.6": {
+    "name": "Verify the use of session-based authentication and authorization. Please refer to sections 2, 3 and 4 for further guidance. Avoid the use of static \"API keys\" and similar.",
+    "level": "1"
+  },
+  "18.7": {
+    "name": "Verify that the REST service is protected from Cross-Site Request Forgery via the use of at least one or more of the following: ORIGIN checks, double submit cookie pattern, CSRF nonces, and referrer checks.",
+    "level": "1"
+  },
+  "18.8": {
+    "name": "Verify the REST service explicitly check the incoming Content-Type to be the expected one, such as application/xml or application/json.",
+    "level": "2"
+  },
+  "18.9": {
+    "name": "Verify that the message payload is signed to ensure reliable transport between client and service, using JSON Web Signing or WS-Security for SOAP requests.",
+    "level": "2"
+  },
+  "19.1": {
+    "name": "Verify that all application assets are hosted by the application, such as JavaScript libraries, CSS stylesheets and web fonts are hosted by the application rather than rely on a CDN or external provider.",
+    "level": "3"
+  },
+  "19.2": {
+    "name": "Verify that communications between components, such as between the application server and the database server, are encrypted, particularly when the components are in different containers or on different systems.",
+    "level": "2"
+  },
+  "19.3": {
+    "name": "Verify that communications between components, such as between the application server and the database server, is authenticated using an account with the least necessary privileges.",
+    "level": "2"
+  },
+  "19.4": {
+    "name": "Verify application deployments are adequately sandboxed, containerized or isolated to delay and deter attackers from attacking other applications.",
+    "level": "2"
+  },
+  "19.5": {
+    "name": "Verify that the application build and deployment processes are performed in a secure and repeatable method, such as CI / CD automation and automated configuration management.",
+    "level": "2"
+  },
+  "19.6": {
+    "name": "Verify that authorised administrators have the capability to verify the integrity of all security-relevant configurations to detect tampering.",
+    "level": "3"
+  },
+  "19.7": {
+    "name": "Verify that all application components are signed.",
+    "level": "3"
+  },
+  "19.8": {
+    "name": "Verify that third party components come from trusted repositories.",
+    "level": "3"
+  },
+  "19.9": {
+    "name": "Verify that build processes for system level languages have all security flags enabled, such as ASLR, DEP, and security checks.",
+    "level": "3"
+  },
+  "19.11": {
+    "name": "Verify that all application components, services, and servers each use their own low privilege service account, that is not shared between applications nor used by administrators.",
+    "level": "2"
+  },
+  "20.1": {
+    "name": "Verify that wireless communications are mutually authenticated.",
+    "level": "1"
+  },
+  "20.2": {
+    "name": "Verify that the device cannot be downgraded to old versions of valid firmware.",
+    "level": "2"
+  },
+  "20.3": {
+    "name": "Verify that memory protection controls such as ASLR and DEP are enabled by the IoT operating system, if applicable.",
+    "level": "1"
+  },
+  "20.4": {
+    "name": "Verify that on-chip debugging interfaces such as JTAG or SWD are disabled or that available protection mechanism is enabled and configured appropriately.",
+    "level": "1"
+  },
+  "20.5": {
+    "name": "Verify that physical debug headers are not present on the device.",
+    "level": "1"
+  },
+  "20.6": {
+    "name": "Verify that sensitive data is not stored unencrypted on the device.",
+    "level": "1"
+  },
+  "20.7": {
+    "name": "Verify that the device prevents leaking of sensitive information.",
+    "level": "1"
+  },
+  "20.8": {
+    "name": "Verify that the firmware apps protect data-in-transit using transport security.",
+    "level": "1"
+  },
+  "20.9": {
+    "name": "Verify that the firmware apps validate the digital signature of server connections.",
+    "level": "1"
+  },
+  "20.11": {
+    "name": "Verify that wireless communications are sent over an encrypted channel.",
+    "level": "1"
+  },
+  "20.12": {
+    "name": "Verify that the firmware apps pin the digital signature to a trusted server(s).",
+    "level": "2"
+  },
+  "20.13": {
+    "name": "Verify the presence of physical tamper resistance and/or tamper detection features, including epoxy.",
+    "level": "2"
+  },
+  "20.14": {
+    "name": "Verify that identifying markings on chips have been removed.",
+    "level": "2"
+  },
+  "20.15": {
+    "name": "Verify that any available Intellectual Property protection technologies provided by the chip manufacturer are enabled.",
+    "level": "2"
+  },
+  "20.16": {
+    "name": "Verify security controls are in place to hinder firmware reverse engineering (e.g., removal of verbose debugging strings).",
+    "level": "2"
+  },
+  "20.17": {
+    "name": "Verify the device validates the boot image signature before loading.",
+    "level": "2"
+  },
+  "20.18": {
+    "name": "Verify that the firmware update process is not vulnerable to time-of-check vs time-of-use attacks.",
+    "level": "2"
+  },
+  "20.19": {
+    "name": "Verify the device uses code signing and validates firmware upgrade files before installing.",
+    "level": "2"
+  },
+  "20.21": {
+    "name": "Verify usage of cryptographically secure pseudo-random number generator on embedded device (e.g., using chip-provided random number generators).",
+    "level": "2"
+  },
+  "20.22": {
+    "name": "Verify that the device wipes firmware and sensitive data upon detection of tampering or receipt of invalid message.",
+    "level": "3"
+  },
+  "20.23": {
+    "name": "Verify that only microcontrollers that support disabling debugging interfaces (e.g. JTAG, SWD) are used.",
+    "level": "3"
+  },
+  "20.24": {
+    "name": "Verify that only microcontrollers that provide substantial protection from de-capping and side channel attacks are used.",
+    "level": "3"
+  },
+  "20.25": {
+    "name": "Verify that sensitive traces are not exposed to outer layers of the printed circuit board.",
+    "level": "3"
+  },
+  "20.26": {
+    "name": "Verify that inter-chip communication is encrypted.",
+    "level": "3"
+  },
+  "20.27": {
+    "name": "Verify the device uses code signing and validates code before execution.",
+    "level": "3"
+  },
+  "20.28": {
+    "name": "Verify that sensitive information maintained in memory is overwritten with zeros as soon as it is no longer required.",
+    "level": "3"
+  },
+  "20.29": {
+    "name": "Verify that the firmware apps utilize kernel containers for isolation between apps.",
+    "level": "3"
+  }
   }
 }
 
