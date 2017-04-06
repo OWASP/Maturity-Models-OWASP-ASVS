@@ -765,9 +765,6 @@
     "proof" : "",
  "objective": ""
   },
-  "": {
-    "description": ""
-  },
   "18.1": {
     "description": "Verify that alternative and less secure access paths do not exist.",
     "proof" : "",
