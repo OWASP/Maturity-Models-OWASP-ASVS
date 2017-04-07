@@ -1,7 +1,7 @@
 {
   "config": {
     "schema": "OwaspASVS",
-    "version": "SESSMGMT.3.1"
+    "version": "3.1"
   },
   "metadata": [
     "team",
