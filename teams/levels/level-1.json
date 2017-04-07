@@ -54,103 +54,103 @@
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.1": {
+    "AUTH.2.1": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.2": {
+    "AUTH.2.2": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.4": {
+    "AUTH.2.4": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.6": {
+    "AUTH.2.6": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.7": {
+    "AUTH.2.7": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.8": {
+    "AUTH.2.8": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.9": {
+    "AUTH.2.9": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.12": {
+    "AUTH.2.12": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.13": {
+    "AUTH.2.13": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.16": {
+    "AUTH.2.16": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.17": {
+    "AUTH.2.17": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.18": {
+    "AUTH.2.18": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.19": {
+    "AUTH.2.19": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.21": {
+    "AUTH.2.21": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.22": {
+    "AUTH.2.22": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.23": {
+    "AUTH.2.23": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.24": {
+    "AUTH.2.24": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.25": {
+    "AUTH.2.25": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.26": {
+    "AUTH.2.26": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.27": {
+    "AUTH.2.27": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.28": {
+    "AUTH.2.28": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.29": {
+    "AUTH.2.29": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.31": {
+    "AUTH.2.31": {
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.32": {
+    "AUTH.2.32": {
       "proof": "",
       "value": "Yes"
     },
-    "ARCH.2.33": {
+    "AUTH.2.33": {
       "proof": "",
       "value": "Yes"
     },
@@ -814,7 +814,7 @@
       "proof": "",
       "value": "No"
     },
-    "ARCH.2.20": {
+    "AUTH.2.20": {
       "value": "Yes"
     },
     "SESSMGMT.3.10": {

@@ -55,132 +55,132 @@
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.1": {
+    "AUTH.2.1": {
       "description": "Verify all pages and resources by default require authentication except those specifically intended to be public (Principle of complete mediation).",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.2": {
+    "AUTH.2.2": {
       "description": "Verify that the application does not automatically fill in credentials – either as hidden fields, URL arguments, Ajax requests, or in forms, as this implies plain text, reversible or de-cryptable password storage. Random time limited nonces are acceptable as stand ins, such as to protect change password forms or forgot password forms.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.4": {
+    "AUTH.2.4": {
       "description": "Verify all authentication controls are enforced on the server side.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.6": {
+    "AUTH.2.6": {
       "description": "Verify all authentication controls fail securely to ensure attackers cannot log in.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.7": {
+    "AUTH.2.7": {
       "description": "Verify password entry fields allow, or encourage, the use of passphrases, and do not prevent password managers, long passphrases or highly complex passwords being entered.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.8": {
+    "AUTH.2.8": {
       "description": "Verify all account identity authentication functions (such as update profile, forgot password, disabled / lost token, help desk or IVR) that might regain access to the account are at least as resistant to attack as the primary authentication mechanism.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.9": {
+    "AUTH.2.9": {
       "description": "Verify that the changing password functionality includes the old password, the new password, and a password confirmation.",
       "proof": "",
       "objective": ""
     },
-      "ARCH.2.12": {
+      "AUTH.2.12": {
       "description": "Verify that all authentication decisions can be logged, without storing sensitive session identifiers or passwords. This should include requests with relevant metadata needed for security investigations.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.13": {
+    "AUTH.2.13": {
       "description": "Verify that account passwords are one way hashed with a salt, and there is sufficient work factor to defeat brute force and password hash recovery attacks.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.16": {
+    "AUTH.2.16": {
       "description": "Verify that credentials are transported using a suitable encrypted link and that all pages/functions that require a user to enter credentials are done so using an encrypted link.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.17": {
+    "AUTH.2.17": {
       "description": "Verify that the forgotten password function and other recovery paths do not reveal the current password and that the new password is not sent in clear text to the user.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.18": {
+    "AUTH.2.18": {
       "description": "Verify that information enumeration is not possible via login, password reset, or forgot account functionality.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.19": {
+    "AUTH.2.19": {
       "description": "Verify there are no default passwords in use for the application framework or any components used by the application (such as Yadmin/passwordY).",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.20": {
+    "AUTH.2.20": {
       "description": "Verify that anti-automation is in place to prevent breached credential testing, brute forcing, and account lockout attacks.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.21": {
+    "AUTH.2.21": {
       "description": "Verify that all authentication credentials for accessing services external to the application are encrypted and stored in a protected location.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.22": {
+    "AUTH.2.22": {
       "description": "Verify that forgotten password and other recovery paths use a TOTP or other soft token, mobile push, or other offline recovery mechanism. Use of a random value in an e-mail or SMS should be a last resort and is known weak.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.23": {
+    "AUTH.2.23": {
       "description": "Verify that account lockout is divided into soft and hard lock status, and these are not mutually exclusive. If an account is temporarily soft locked out due to a brute force attack, this should not reset the hard lock status.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.24": {
+    "AUTH.2.24": {
       "description": "Verify that if shared knowledge based questions (also known as \"secret questions\") are required, the questions do not violate privacy laws and are sufficiently strong to protect accounts from malicious recovery.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.25": {
+    "AUTH.2.25": {
       "description": "Verify that high value applications can be configured to disallow the use of a configurable number of previous passwords.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.26": {
+    "AUTH.2.26": {
       "description": "Verify that risk based re-authentication, two factor or transaction signing is in place for high value transactions.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.27": {
+    "AUTH.2.27": {
       "description": "Verify that measures are in place to block the use of commonly chosen passwords and weak passphrases.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.28": {
+    "AUTH.2.28": {
       "description": "Verify that all authentication challenges, whether successful or failed, should respond in the same average response time.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.29": {
+    "AUTH.2.29": {
       "description": "Verify that secrets, API keys, and passwords are not included in the source code, or online source code repositories.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.31": {
+    "AUTH.2.31": {
       "description": "Verify that users can enrol and use TOTP verification, two-factor, biometric (Touch ID or similar), or equivalent multi-factor authentication mechanism that provides protection against single factor credential disclosure.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.32": {
+    "AUTH.2.32": {
       "description": "Verify that administrative interfaces are not accessible to untrusted parties.",
       "proof": "",
       "objective": ""
     },
-    "ARCH.2.33": {
+    "AUTH.2.33": {
       "description": "Verify that the application is compatible with browser based and third party password managers, unless prohibited by risk based policy.",
       "proof": "",
       "objective": ""
