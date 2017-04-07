@@ -10,615 +10,615 @@
     "hide-from-stats": "yes"
   },
   "activities": {
-    "1.1": {
+    "ARCH.1.1": {
       "proof": "",
       "value": "Yes"
     },
-    "1.2": {
+    "ARCH.1.2": {
       "proof": "",
       "value": "Yes"
     },
-    "1.3": {
+    "ARCH.1.3": {
       "proof": "",
       "value": "Yes"
     },
-    "1.4": {
+    "ARCH.1.4": {
       "proof": "",
       "value": "Yes"
     },
-    "1.5": {
+    "ARCH.1.5": {
       "proof": "",
       "value": "Yes"
     },
-    "1.6": {
+    "ARCH.1.6": {
       "proof": "",
       "value": "Yes"
     },
-    "1.7": {
+    "ARCH.1.7": {
       "proof": "",
       "value": "Yes"
     },
-    "1.8": {
+    "ARCH.1.8": {
       "proof": "",
       "value": "Yes"
     },
-    "1.9": {
+    "ARCH.1.9": {
       "proof": "",
       "value": "Yes"
     },
-    "1.11": {
+    "ARCH.1.11": {
       "proof": "",
       "value": "Yes"
     },
-    "2.1": {
+    "ARCH.2.1": {
       "proof": "",
       "value": "Yes"
     },
-    "2.2": {
+    "ARCH.2.2": {
       "proof": "",
       "value": "Yes"
     },
-    "2.4": {
+    "ARCH.2.4": {
       "proof": "",
       "value": "Yes"
     },
-    "2.6": {
+    "ARCH.2.6": {
       "proof": "",
       "value": "Yes"
     },
-    "2.7": {
+    "ARCH.2.7": {
       "proof": "",
       "value": "Yes"
     },
-    "2.8": {
+    "ARCH.2.8": {
       "proof": "",
       "value": "Yes"
     },
-    "2.9": {
+    "ARCH.2.9": {
       "proof": "",
       "value": "Yes"
     },
-    "2.12": {
+    "ARCH.2.12": {
       "proof": "",
       "value": "Yes"
     },
-    "2.13": {
+    "ARCH.2.13": {
       "proof": "",
       "value": "Yes"
     },
-    "2.16": {
+    "ARCH.2.16": {
       "proof": "",
       "value": "Yes"
     },
-    "2.17": {
+    "ARCH.2.17": {
       "proof": "",
       "value": "Yes"
     },
-    "2.18": {
+    "ARCH.2.18": {
       "proof": "",
       "value": "Yes"
     },
-    "2.19": {
+    "ARCH.2.19": {
       "proof": "",
       "value": "Yes"
     },
-    "2.21": {
+    "ARCH.2.21": {
       "proof": "",
       "value": "Yes"
     },
-    "2.22": {
+    "ARCH.2.22": {
       "proof": "",
       "value": "Yes"
     },
-    "2.23": {
+    "ARCH.2.23": {
       "proof": "",
       "value": "Yes"
     },
-    "2.24": {
+    "ARCH.2.24": {
       "proof": "",
       "value": "Yes"
     },
-    "2.25": {
+    "ARCH.2.25": {
       "proof": "",
       "value": "Yes"
     },
-    "2.26": {
+    "ARCH.2.26": {
       "proof": "",
       "value": "Yes"
     },
-    "2.27": {
+    "ARCH.2.27": {
       "proof": "",
       "value": "Yes"
     },
-    "2.28": {
+    "ARCH.2.28": {
       "proof": "",
       "value": "Yes"
     },
-    "2.29": {
+    "ARCH.2.29": {
       "proof": "",
       "value": "Yes"
     },
-    "2.31": {
+    "ARCH.2.31": {
       "proof": "",
       "value": "Yes"
     },
-    "2.32": {
+    "ARCH.2.32": {
       "proof": "",
       "value": "Yes"
     },
-    "2.33": {
+    "ARCH.2.33": {
       "proof": "",
       "value": "Yes"
     },
-    "3.1": {
+    "SESSMGMT.3.1": {
       "proof": "",
       "value": "Yes"
     },
-    "3.2": {
+    "SESSMGMT.3.2": {
       "proof": "",
       "value": "Yes"
     },
-    "3.3": {
+    "SESSMGMT.3.3": {
       "proof": "",
       "value": "Yes"
     },
-    "3.4": {
+    "SESSMGMT.3.4": {
       "proof": "",
       "value": "Yes"
     },
-    "3.5": {
+    "SESSMGMT.3.5": {
       "proof": "",
       "value": "Yes"
     },
-    "3.6": {
+    "SESSMGMT.3.6": {
       "proof": "",
       "value": "Yes"
     },
-    "3.7": {
+    "SESSMGMT.3.7": {
       "proof": "",
       "value": "Yes"
     },
-    "3.11": {
+    "SESSMGMT.3.11": {
       "proof": "",
       "value": "Yes"
     },
-    "3.12": {
+    "SESSMGMT.3.12": {
       "proof": "",
       "value": "Yes"
     },
-    "3.16": {
+    "SESSMGMT.3.16": {
       "proof": "",
       "value": "Yes"
     },
-    "3.17": {
+    "SESSMGMT.3.17": {
       "proof": "",
       "value": "Yes"
     },
-    "3.18": {
+    "SESSMGMT.3.18": {
       "proof": "",
       "value": "Yes"
     },
-    "4.1": {
+    "ACCESS.4.1": {
       "proof": "",
       "value": "Yes"
     },
-    "4.4": {
+    "ACCESS.4.4": {
       "proof": "",
       "value": "Yes"
     },
-    "4.5": {
+    "ACCESS.4.5": {
       "proof": "",
       "value": "Yes"
     },
-    "4.8": {
+    "ACCESS.4.8": {
       "proof": "",
       "value": "Yes"
     },
-    "4.9": {
+    "ACCESS.4.9": {
       "proof": "",
       "value": "Yes"
     },
-    "4.11": {
+    "ACCESS.4.11": {
       "proof": "",
       "value": "Yes"
     },
-    "4.12": {
+    "ACCESS.4.12": {
       "proof": "",
       "value": "Yes"
     },
-    "4.13": {
+    "ACCESS.4.13": {
       "proof": "",
       "value": "Yes"
     },
-    "4.14": {
+    "ACCESS.4.14": {
       "proof": "",
       "value": "Yes"
     },
-    "4.15": {
+    "ACCESS.4.15": {
       "proof": "",
       "value": "Yes"
     },
-    "4.16": {
+    "ACCESS.4.16": {
       "proof": "",
       "value": "Yes"
     },
-    "5.1": {
+    "INPUT.5.1": {
       "proof": "",
       "value": "Yes"
     },
-    "5.3": {
+    "INPUT.5.3": {
       "proof": "",
       "value": "Yes"
     },
-    "5.5": {
+    "INPUT.5.5": {
       "proof": "",
       "value": "Yes"
     },
-    "5.6": {
+    "INPUT.5.6": {
       "proof": "",
       "value": "Yes"
     },
-    "5.11": {
+    "INPUT.5.11": {
       "proof": "",
       "value": "Yes"
     },
-    "5.12": {
+    "INPUT.5.12": {
       "proof": "",
       "value": "Yes"
     },
-    "5.13": {
+    "INPUT.5.13": {
       "proof": "",
       "value": "Yes"
     },
-    "5.14": {
+    "INPUT.5.14": {
       "proof": "",
       "value": "Yes"
     },
-    "5.15": {
+    "INPUT.5.15": {
       "proof": "",
       "value": "Yes"
     },
-    "5.16": {
+    "INPUT.5.16": {
       "proof": "",
       "value": "Yes"
     },
-    "5.17": {
+    "INPUT.5.17": {
       "proof": "",
       "value": "Yes"
     },
-    "5.18": {
+    "INPUT.5.18": {
       "proof": "",
       "value": "Yes"
     },
-    "5.19": {
+    "INPUT.5.19": {
       "proof": "",
       "value": "Yes"
     },
-    "5.2": {
+    "INPUT.5.2": {
       "proof": "",
       "value": "Yes"
     },
-    "5.21": {
+    "INPUT.5.21": {
       "proof": "",
       "value": "Yes"
     },
-    "5.22": {
+    "INPUT.5.22": {
       "proof": "",
       "value": "Yes"
     },
-    "5.23": {
+    "INPUT.5.23": {
       "proof": "",
       "value": "Yes"
     },
-    "5.24": {
+    "INPUT.5.24": {
       "proof": "",
       "value": "Yes"
     },
-    "5.25": {
+    "INPUT.5.25": {
       "proof": "",
       "value": "Yes"
     },
-    "5.26": {
+    "INPUT.5.26": {
       "proof": "",
       "value": "Yes"
     },
-    "7.2": {
+    "CRYPTO.7.2": {
       "proof": "",
       "value": "Yes"
     },
-    "7.6": {
+    "CRYPTO.7.6": {
       "proof": "",
       "value": "Yes"
     },
-    "7.7": {
+    "CRYPTO.7.7": {
       "proof": "",
       "value": "Yes"
     },
-    "7.8": {
+    "CRYPTO.7.8": {
       "proof": "",
       "value": "Yes"
     },
-    "7.9": {
+    "CRYPTO.7.9": {
       "proof": "",
       "value": "Yes"
     },
-    "7.11": {
+    "CRYPTO.7.11": {
       "proof": "",
       "value": "Yes"
     },
-    "7.12": {
+    "CRYPTO.7.12": {
       "proof": "",
       "value": "Yes"
     },
-    "7.13": {
+    "CRYPTO.7.13": {
       "proof": "",
       "value": "Yes"
     },
-    "7.14": {
+    "CRYPTO.7.14": {
       "proof": "",
       "value": "Yes"
     },
-    "7.15": {
+    "CRYPTO.7.15": {
       "proof": "",
       "value": "Yes"
     },
-    "8.1": {
+    "ERROR.8.1": {
       "proof": "",
       "value": "Yes"
     },
-    "8.2": {
+    "ERROR.8.2": {
       "proof": "",
       "value": "Yes"
     },
-    "8.3": {
+    "ERROR.8.3": {
       "proof": "",
       "value": "Yes"
     },
-    "8.4": {
+    "ERROR.8.4": {
       "proof": "",
       "value": "Yes"
     },
-    "8.5": {
+    "ERROR.8.5": {
       "proof": "",
       "value": "Yes"
     },
-    "8.6": {
+    "ERROR.8.6": {
       "proof": "",
       "value": "Yes"
     },
-    "8.7": {
+    "ERROR.8.7": {
       "proof": "",
       "value": "Yes"
     },
-    "8.8": {
+    "ERROR.8.8": {
       "proof": "",
       "value": "Yes"
     },
-    "8.9": {
+    "ERROR.8.9": {
       "proof": "",
       "value": "Yes"
     },
-    "8.11": {
+    "ERROR.8.11": {
       "proof": "",
       "value": "Yes"
     },
-    "8.12": {
+    "ERROR.8.12": {
       "proof": "",
       "value": "Yes"
     },
-    "8.13": {
+    "ERROR.8.13": {
       "proof": "",
       "value": "Yes"
     },
-    "9.1": {
+    "DATA.9.1": {
       "proof": "",
       "value": "Yes"
     },
-    "9.2": {
+    "DATA.9.2": {
       "proof": "",
       "value": "Yes"
     },
-    "9.3": {
+    "DATA.9.3": {
       "proof": "",
       "value": "Yes"
     },
-    "9.4": {
+    "DATA.9.4": {
       "proof": "",
       "value": "Yes"
     },
-    "9.5": {
+    "DATA.9.5": {
       "proof": "",
       "value": "Yes"
     },
-    "9.6": {
+    "DATA.9.6": {
       "proof": "",
       "value": "Yes"
     },
-    "9.7": {
+    "DATA.9.7": {
       "proof": "",
       "value": "Yes"
     },
-    "9.8": {
+    "DATA.9.8": {
       "proof": "",
       "value": "Yes"
     },
-    "9.9": {
+    "DATA.9.9": {
       "proof": "",
       "value": "Yes"
     },
-    "9.11": {
+    "DATA.9.11": {
       "proof": "",
       "value": "Yes"
     },
-    "10.1": {
+    "COMSEC.10.1": {
       "proof": "",
       "value": "Yes"
     },
-    "10.3": {
+    "COMSEC.10.3": {
       "proof": "",
       "value": "Yes"
     },
-    "10.4": {
+    "COMSEC.10.4": {
       "proof": "",
       "value": "Yes"
     },
-    "10.5": {
+    "COMSEC.10.5": {
       "proof": "",
       "value": "Yes"
     },
-    "10.6": {
+    "COMSEC.10.6": {
       "proof": "",
       "value": "Yes"
     },
-    "10.8": {
+    "COMSEC.10.8": {
       "proof": "",
       "value": "Yes"
     },
-    "10.11": {
+    "COMSEC.10.11": {
       "proof": "",
       "value": "Yes"
     },
-    "10.12": {
+    "COMSEC.10.12": {
       "proof": "",
       "value": "Yes"
     },
-    "10.13": {
+    "COMSEC.10.13": {
       "proof": "",
       "value": "Yes"
     },
-    "10.14": {
+    "COMSEC.10.14": {
       "proof": "",
       "value": "Yes"
     },
-    "10.15": {
+    "COMSEC.10.15": {
       "proof": "",
       "value": "Yes"
     },
-    "10.16": {
+    "COMSEC.10.16": {
       "proof": "",
       "value": "Yes"
     },
-    "11.1": {
+    "HTTPSEC.11.1": {
       "proof": "",
       "value": "Yes"
     },
-    "11.2": {
+    "HTTPSEC.11.2": {
       "proof": "",
       "value": "Yes"
     },
-    "11.3": {
+    "HTTPSEC.11.3": {
       "proof": "",
       "value": "Yes"
     },
-    "11.4": {
+    "HTTPSEC.11.4": {
       "proof": "",
       "value": "Yes"
     },
-    "11.5": {
+    "HTTPSEC.11.5": {
       "proof": "",
       "value": "Yes"
     },
-    "11.6": {
+    "HTTPSEC.11.6": {
       "proof": "",
       "value": "Yes"
     },
-    "11.7": {
+    "HTTPSEC.11.7": {
       "proof": "",
       "value": "Yes"
     },
-    "11.8": {
+    "HTTPSEC.11.8": {
       "proof": "",
       "value": "Yes"
     },
-    "13.1": {
+    "MALCTRL.13.1": {
       "proof": "",
       "value": "Yes"
     },
-    "13.2": {
+    "MALCTRL.13.2": {
       "proof": "",
       "value": "Yes"
     },
-    "15.1": {
+    "BUSINESS.15.1": {
       "proof": "",
       "value": "Yes"
     },
-    "15.2": {
+    "BUSINESS.15.2": {
       "proof": "",
       "value": "Yes"
     },
-    "16.1": {
+    "FILES.16.1": {
       "proof": "",
       "value": "Yes"
     },
-    "16.2": {
+    "FILES.16.2": {
       "proof": "",
       "value": "Yes"
     },
-    "16.3": {
+    "FILES.16.3": {
       "proof": "",
       "value": "Yes"
     },
-    "16.4": {
+    "FILES.16.4": {
       "proof": "",
       "value": "Yes"
     },
-    "16.5": {
+    "FILES.16.5": {
       "proof": "",
       "value": "Yes"
     },
-    "16.6": {
+    "FILES.16.6": {
       "proof": "",
       "value": "Yes"
     },
-    "16.7": {
+    "FILES.16.7": {
       "proof": "",
       "value": "Yes"
     },
-    "16.8": {
+    "FILES.16.8": {
       "proof": "",
       "value": "Yes"
     },
-    "16.9": {
+    "FILES.16.9": {
       "proof": "",
       "value": "Yes"
     },
-    "17.1": {
+    "MOBILE.17.1": {
       "proof": "",
       "value": "Yes"
     },
-    "17.2": {
+    "MOBILE.17.2": {
       "proof": "",
       "value": "Yes"
     },
-    "17.3": {
+    "MOBILE.17.3": {
       "proof": "",
       "value": "Yes"
     },
-    "17.4": {
+    "MOBILE.17.4": {
       "proof": "",
       "value": "Yes"
     },
-    "17.5": {
+    "MOBILE.17.5": {
       "proof": "",
       "value": "Yes"
     },
-    "17.6": {
+    "MOBILE.17.6": {
       "proof": "",
       "value": "Yes"
     },
-    "17.7": {
+    "MOBILE.17.7": {
       "proof": "",
       "value": "Yes"
     },
-    "17.8": {
+    "MOBILE.17.8": {
       "proof": "",
       "value": "Yes"
     },
-    "17.9": {
+    "MOBILE.17.9": {
       "proof": "",
       "value": "Yes"
     },
-    "17.11": {
+    "MOBILE.17.11": {
       "proof": "",
       "value": "Yes"
     },
@@ -626,230 +626,230 @@
       "proof": "",
       "value": "No"
     },
-    "18.1": {
+    "WS.18.1": {
       "proof": "",
       "value": "Yes"
     },
-    "18.2": {
+    "WS.18.2": {
       "proof": "",
       "value": "Yes"
     },
-    "18.3": {
+    "WS.18.3": {
       "proof": "",
       "value": "Yes"
     },
-    "18.4": {
+    "WS.18.4": {
       "proof": "",
       "value": "Yes"
     },
-    "18.5": {
+    "WS.18.5": {
       "proof": "",
       "value": "Yes"
     },
-    "18.6": {
+    "WS.18.6": {
       "proof": "",
       "value": "Yes"
     },
-    "18.7": {
+    "WS.18.7": {
       "proof": "",
       "value": "Yes"
     },
-    "18.8": {
+    "WS.18.8": {
       "proof": "",
       "value": "Yes"
     },
-    "18.9": {
+    "WS.18.9": {
       "proof": "",
       "value": "Yes"
     },
-    "19.1": {
+    "CONF.19.1": {
       "proof": "",
       "value": "Yes"
     },
-    "19.2": {
+    "CONF.19.2": {
       "proof": "",
       "value": "Yes"
     },
-    "19.3": {
+    "CONF.19.3": {
       "proof": "",
       "value": "Yes"
     },
-    "19.4": {
+    "CONF.19.4": {
       "proof": "",
       "value": "Yes"
     },
-    "19.5": {
+    "CONF.19.5": {
       "proof": "",
       "value": "Yes"
     },
-    "19.6": {
+    "CONF.19.6": {
       "proof": "",
       "value": "Yes"
     },
-    "19.7": {
+    "CONF.19.7": {
       "proof": "",
       "value": "Yes"
     },
-    "19.8": {
+    "CONF.19.8": {
       "proof": "",
       "value": "Yes"
     },
-    "19.9": {
+    "CONF.19.9": {
       "proof": "",
       "value": "Yes"
     },
-    "19.11": {
+    "CONF.19.11": {
       "proof": "",
       "value": "Yes"
     },
-    "20.1": {
+    "IOT.20.1": {
       "proof": "",
       "value": "Yes"
     },
-    "20.2": {
+    "IOT.20.2": {
       "proof": "",
       "value": "Yes"
     },
-    "20.3": {
+    "IOT.20.3": {
       "proof": "",
       "value": "Yes"
     },
-    "20.4": {
+    "IOT.20.4": {
       "proof": "",
       "value": "Yes"
     },
-    "20.5": {
+    "IOT.20.5": {
       "proof": "",
       "value": "Yes"
     },
-    "20.6": {
+    "IOT.20.6": {
       "proof": "",
       "value": "Yes"
     },
-    "20.7": {
+    "IOT.20.7": {
       "proof": "",
       "value": "Yes"
     },
-    "20.8": {
+    "IOT.20.8": {
       "proof": "",
       "value": "Yes"
     },
-    "20.9": {
+    "IOT.20.9": {
       "proof": "",
       "value": "Yes"
     },
-    "20.11": {
+    "IOT.20.11": {
       "proof": "",
       "value": "Yes"
     },
-    "20.12": {
+    "IOT.20.12": {
       "proof": "",
       "value": "Yes"
     },
-    "20.13": {
+    "IOT.20.13": {
       "proof": "",
       "value": "Yes"
     },
-    "20.14": {
+    "IOT.20.14": {
       "proof": "",
       "value": "Yes"
     },
-    "20.15": {
+    "IOT.20.15": {
       "proof": "",
       "value": "Yes"
     },
-    "20.16": {
+    "IOT.20.16": {
       "proof": "",
       "value": "Yes"
     },
-    "20.17": {
+    "IOT.20.17": {
       "proof": "",
       "value": "Yes"
     },
-    "20.18": {
+    "IOT.20.18": {
       "proof": "",
       "value": "Yes"
     },
-    "20.19": {
+    "IOT.20.19": {
       "proof": "",
       "value": "Yes"
     },
-    "20.21": {
+    "IOT.20.21": {
       "proof": "",
       "value": "Yes"
     },
-    "20.22": {
+    "IOT.20.22": {
       "proof": "",
       "value": "Yes"
     },
-    "20.23": {
+    "IOT.20.23": {
       "proof": "",
       "value": "Yes"
     },
-    "20.24": {
+    "IOT.20.24": {
       "proof": "",
       "value": "Yes"
     },
-    "20.25": {
+    "IOT.20.25": {
       "proof": "",
       "value": "Yes"
     },
-    "20.26": {
+    "IOT.20.26": {
       "proof": "",
       "value": "Yes"
     },
-    "20.27": {
+    "IOT.20.27": {
       "proof": "",
       "value": "Yes"
     },
-    "20.28": {
+    "IOT.20.28": {
       "proof": "",
       "value": "Yes"
     },
-    "20.29": {
+    "IOT.20.29": {
       "proof": "",
       "value": "Yes"
     },
-    "1.10": {
+    "ARCH.1.10": {
       "value": "No"
     },
-    "2.20": {
+    "ARCH.2.20": {
       "value": "No"
     },
-    "3.10": {
+    "SESSMGMT.3.10": {
       "value": "No"
     },
-    "4.10": {
+    "ACCESS.4.10": {
       "value": "No"
     },
-    "5.10": {
+    "INPUT.5.10": {
       "value": "No"
     },
-    "5.20": {
+    "INPUT.5.20": {
       "value": "No"
     },
-    "8.10": {
+    "ERROR.8.10": {
       "value": "No"
     },
-    "9.10": {
+    "DATA.9.10": {
       "value": "No"
     },
-    "10.10": {
+    "COMSEC.10.10": {
       "value": "No"
     },
-    "17.10": {
+    "MOBILE.17.10": {
       "value": "No"
     },
-    "18.10": {
+    "WS.18.10": {
       "value": "No"
     },
-    "19.10": {
+    "CONF.19.10": {
       "value": "Yes"
     },
-    "20.10": {
+    "IOT.20.10": {
       "value": "No"
     },
-    "20.20": {
+    "IOT.20.20": {
       "value": "No"
     }
   }
