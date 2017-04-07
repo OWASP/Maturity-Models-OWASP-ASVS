@@ -624,7 +624,7 @@
     },
     "": {
       "proof": "",
-      "value": "No"
+      "value": "Yes"
     },
     "WS.18.1": {
       "proof": "",
@@ -811,46 +811,46 @@
       "value": "Yes"
     },
     "ARCH.1.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "ARCH.2.20": {
-      "value": "No"
+      "value": "Yes"
     },
     "SESSMGMT.3.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "ACCESS.4.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "INPUT.5.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "INPUT.5.20": {
-      "value": "No"
+      "value": "Yes"
     },
     "ERROR.8.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "DATA.9.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "COMSEC.10.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "MOBILE.17.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "WS.18.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "CONF.19.10": {
       "value": "Yes"
     },
     "IOT.20.10": {
-      "value": "No"
+      "value": "Yes"
     },
     "IOT.20.20": {
-      "value": "No"
+      "value": "Yes"
     }
   }
 }
