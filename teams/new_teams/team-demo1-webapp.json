@@ -1,0 +1,862 @@
+{
+  "metadata": {
+    "team": "ASVS demo team 1 webapp project",
+    "security-champion": "",
+    "source-code-repo": "",
+    "issue-tracking": "",
+    "wiki": "",
+    "ci-server": "",
+    "created-by": "",
+    "hide-from-stats": ""
+  },
+  "activities": {
+    "ARCH.1.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ARCH.1.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.12": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.13": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.16": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.17": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.18": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.19": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.20": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.21": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.22": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.23": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.24": {
+      "value": "No",
+      "proof": "Security answers are stored in plaintext in the database."
+    },
+    "AUTH.2.25": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.26": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.27": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.28": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.29": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.31": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.32": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AUTH.2.33": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.2": {
+      "value": "No",
+      "proof": "Session cookie only deleted in browser, not deleted on backend."
+    },
+    "SESSMGMT.3.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.6": {
+      "value": "No",
+      "proof": ""
+    },
+    "SESSMGMT.3.7": {
+      "value": "No",
+      "proof": ""
+    },
+    "SESSMGMT.3.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.11": {
+      "value": "No",
+      "proof": ""
+    },
+    "SESSMGMT.3.12": {
+      "value": "No",
+      "proof": ""
+    },
+    "SESSMGMT.3.16": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.17": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SESSMGMT.3.18": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.12": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.13": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.14": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.15": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ACCESS.4.16": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.6": {
+      "value": "No",
+      "proof": ""
+    },
+    "INPUT.5.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.12": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.13": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.14": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.15": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.16": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.17": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.18": {
+      "value": "No",
+      "proof": ""
+    },
+    "INPUT.5.19": {
+      "value": "No",
+      "proof": ""
+    },
+    "INPUT.5.20": {
+      "value": "No",
+      "proof": ""
+    },
+    "INPUT.5.21": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.22": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.23": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "INPUT.5.24": {
+      "value": "No",
+      "proof": ""
+    },
+    "INPUT.5.25": {
+      "value": "No",
+      "proof": ""
+    },
+    "INPUT.5.26": {
+      "value": "No",
+      "proof": ""
+    },
+    "CRYPTO.7.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.12": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.13": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.14": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CRYPTO.7.15": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.12": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ERROR.8.13": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DATA.9.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.12": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.13": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.14": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.15": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "COMSEC.10.16": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "HTTPSEC.11.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "MALCTRL.13.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "MALCTRL.13.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "BUSINESS.15.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "BUSINESS.15.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "FILES.16.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "MOBILE.17.1": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.2": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.3": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.4": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.5": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.6": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.7": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.8": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.9": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.10": {
+      "value": "NA",
+      "proof": ""
+    },
+    "MOBILE.17.11": {
+      "value": "NA",
+      "proof": ""
+    },
+    "WS.18.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.7": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "WS.18.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.1": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.2": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.3": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.4": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.5": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.6": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.7": {
+      "value": "No",
+      "proof": "Third party dependencies are not signed."
+    },
+    "CONF.19.8": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.10": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.9": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "CONF.19.11": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IOT.20.1": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.2": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.3": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.4": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.5": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.6": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.7": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.8": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.9": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.10": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.11": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.12": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.13": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.14": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.15": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.16": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.17": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.18": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.19": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.20": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.21": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.22": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.23": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.24": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.25": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.26": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.27": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.28": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IOT.20.29": {
+      "value": "NA",
+      "proof": ""
+    }
+  }
+}
